@@ -3,6 +3,7 @@
 **LIVE WEBSITE** - [Click to Open](https://samvad-frontend.vercel.app/)
 
 <br>
-**Frontend** - [FrontEnd](https://github.com/manishtiwari-45/samvad-frontend)
+
+**Frontend** - [Click here](https://github.com/manishtiwari-45/samvad-frontend)
 <br>
-**backend** - [BackEnd](https://github.com/manishtiwari-45/samvad-backend)
+**backend** - [Click here](https://github.com/manishtiwari-45/samvad-backend)
